@@ -10,3 +10,13 @@ The purpose of this analysis is to create a supervised machine learning model th
 * 6. Easy Ensemble Classifying
 
 Through each of these methods, the data was split into training and testing datasets. Accuracy scores, confusion matrices and classification reports were compiled in summary form. 
+
+## Deliverable 1
+![Resources/Naive_Random_Oversampling.jpg](Resources/Naive_Random_Oversampling.jpg)
+![Resources/SMOTE_Oversampling.jpg](Resources/SMOTE_Oversampling.jpg)
+
+## Deliverable 2
+
+## Deliverable 3
+
+## Summary
