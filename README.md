@@ -50,3 +50,25 @@ Through each of these methods, the data was split into training and testing data
 * Accuracy Score: 92.3%
 
 ## Summary
+
+This analysis tries to find the best model that can detect if a loan is high-risk. Because of that, we need to find a model that lets the least amount of high-risk loans pass through undetected. That correlating statistic for this is the recall rate for high-risk. Looking through the different models, the ones that scored the highest were:
+
+* Easy Ensemble Analysis (91%)
+* SMOTEENN Analysis (76%)
+* SMOTE Oversampling (70%)
+
+While this is the most important statistic that is pulled from this analysis, another important statistic is recall rate for low-risk as it shows how many low-risk loans are flagged as high-risk. Looking through the different models, the ones that scored the highest were:
+
+* Random Forest Analysis (100%)
+* Easy Ensemble Analysis (94%)
+
+However, one looks at the accuracy score to get a picture of how well the model performs in general. The models with the highest accuracy scores were:
+
+* Easy Ensemble Analysis (92.3%)
+* SMOTE Oversampling (68.2%)
+* SMOTEENN Analysis (68.1%)
+
+Therefore the model that is recommended by factoring multiple metrics is the Easy Ensemble Analysis.
+
+
+
