@@ -20,15 +20,33 @@ Through each of these methods, the data was split into training and testing data
 
 ![Resources/SMOTE_Oversampling.jpg](Resources/SMOTE_Oversampling.jpg)
 
+### SMOTE Oversampling
+* Accuracy Score: 68.2%
 
 ## Deliverable 2
 ## Use the SMOTEENN algorithm to Predict Credit Risk
+
 ![Resources/Undersampling_Analysis.jpg](Resources/Undersampling_Analysis.jpg)
+
+### Undersampling Analysis
+* Accuracy Score: 52.2%
+
 ![Resources/SMOTEENN_Analysis.jpg](Resources/SMOTEENN_Analysis.jpg)
+
+### SMOTEENN Analysis
+* Accuracy Score: 68.1%
 
 ## Deliverable 3
 ## Use Ensemble Classifiers to Predict Credit Risk
+
 ![Resources/Random_Forest_Analysis.jpg](Resources/Random_Forest_Analysis.jpg)
+
+### Random Forest Analysis
+* Accuracy Score: 64.8%
+
 ![Resources/Easy_Ensemble_Analysis.jpg](Resources/Easy_Ensemble_Analysis.jpg)
+
+### Easy Ensemble Analysis
+* Accuracy Score: 92.3%
 
 ## Summary
