@@ -16,7 +16,11 @@ Through each of these methods, the data was split into training and testing data
 ![Resources/SMOTE_Oversampling.jpg](Resources/SMOTE_Oversampling.jpg)
 
 ## Deliverable 2
+![Resources/Undersampling_Analysis.jpg](Resources/Undersampling_Analysis.jpg)
+![Resources/SMOTEENN_Analysis.jpg](Resources/SMOTEENN_Analysis.jpg)
 
 ## Deliverable 3
+![Resources/Random_Forest_Analysis.jpg](Resources/Random_Forest_Analysis.jpg)
+![Resources/Easy_Ensemble_Analysis.jpg](Resources/Easy_Ensemble_Analysis.jpg)
 
 ## Summary
