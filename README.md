@@ -12,14 +12,17 @@ The purpose of this analysis is to create a supervised machine learning model th
 Through each of these methods, the data was split into training and testing datasets. Accuracy scores, confusion matrices and classification reports were compiled in summary form. 
 
 ## Deliverable 1
+## Use Resampling Models to Predict Credit Risk
 ![Resources/Naive_Random_Oversampling.jpg](Resources/Naive_Random_Oversampling.jpg)
 ![Resources/SMOTE_Oversampling.jpg](Resources/SMOTE_Oversampling.jpg)
 
 ## Deliverable 2
+## Use the SMOTEENN algorithm to Predict Credit Risk
 ![Resources/Undersampling_Analysis.jpg](Resources/Undersampling_Analysis.jpg)
 ![Resources/SMOTEENN_Analysis.jpg](Resources/SMOTEENN_Analysis.jpg)
 
 ## Deliverable 3
+## Use Ensemble Classifiers to Predict Credit Risk
 ![Resources/Random_Forest_Analysis.jpg](Resources/Random_Forest_Analysis.jpg)
 ![Resources/Easy_Ensemble_Analysis.jpg](Resources/Easy_Ensemble_Analysis.jpg)
 
