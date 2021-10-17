@@ -14,7 +14,12 @@ Through each of these methods, the data was split into training and testing data
 ## Deliverable 1
 ## Use Resampling Models to Predict Credit Risk
 ![Resources/Naive_Random_Oversampling.jpg](Resources/Naive_Random_Oversampling.jpg)
+
+### Random Oversampling
+* Accuracy Score: 67.4%
+
 ![Resources/SMOTE_Oversampling.jpg](Resources/SMOTE_Oversampling.jpg)
+
 
 ## Deliverable 2
 ## Use the SMOTEENN algorithm to Predict Credit Risk
