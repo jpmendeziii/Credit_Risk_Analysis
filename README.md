@@ -8,3 +8,5 @@ The purpose of this analysis is to create a supervised machine learning model th
 * 4. SMOTEENN Sampling
 * 5. Balanced Random Forest Classifying
 * 6. Easy Ensemble Classifying
+
+Through each of these methods, the data was split into training and testing datasets. Accuracy scores, confusion matrices and classification reports were compiled in summary form. 
