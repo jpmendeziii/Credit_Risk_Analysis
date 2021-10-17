@@ -1,1 +1,10 @@
 # Credit_Risk_Analysis
+## Overview
+The purpose of this analysis is to create a supervised machine learning model that could accurately predict credit risk. Six different methods were utilized.
+
+* 1. Naive Random Oversampling
+* 2. SMOTE Oversampling
+* 3. Cluster Centroid Undersampling
+* 4. SMOTEENN Sampling
+* 5. Balanced Random Forest Classifying
+* 6. Easy Ensemble Classifying
